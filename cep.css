@@ -1,0 +1,33 @@
+body{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(to right,)
+}
+button{
+    background-color: rgb(112, 174, 216);
+    color: white;
+    border: none;
+    padding: 15px 25px; 
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#cepInput{
+  width: 100%; 
+  padding: 10px; 
+  font-size: 15px;
+  border: 2px solid #ffd000; 
+
+}
+.faixa{
+    background-color: #007bff;
+    background: rgb(255, 221, 71);
+    border: #007bff;
+    padding: 50px;
+    margin: 50px;
+}
+header{
+    background-color: #007bff;
+}
